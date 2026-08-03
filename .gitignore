@@ -1,4 +1,9 @@
+# Obsidian local workspace
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache/
+
+# Operating system files
 .DS_Store
 Thumbs.db
